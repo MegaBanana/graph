@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Windows.Shapes;
 
-namespace Maveric
+namespace SPACE
 {
     public class Graph
     {
